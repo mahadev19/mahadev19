@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist | Python, SQL, Machine Learning, Power BI | Turning Data Into Actionable Insights<br><br>Python Programming<br>Proficient in Python for data analysis, machine learning, and statistical modeling.<br><br>Python for data science<br>Statistical analysis<br>Data preprocessing<br>Feature engineering<br>Power BI<br>Creating interactive dashboards and compelling data visualizations.<br><br>Data visualization<br>Interactive dashboards<br>Analytical problem-solving<br>DAX<br>SQL & Databases<br>Strong SQL skills for data extraction, manipulation, and database management.<br><br>SQL query optimization<br>Database management<br>Data extraction<br>Tools: MySQL, PostgreSQL<br>Machine Learning<br>Applying ML algorithms for predictive modeling and pattern recognition.<br><br>Predictive modeling<br>Anomaly detection<br>Demand forecasting<br>Tools<br>Proficient with modern development, analysis, and documentation tools.<br><br>Git & GitHub<br>Jupyter Notebook<br>VS Code<br>MS Office<br>## Contact :<br><br>gmail:- pandmahadev120@gmail.com<br><br>linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/<br><br>twitter : - https://x.com/Mahadev_Py<br><br>https://www.mahadev.me/
+Data Scientist | Python, SQL, Machine Learning, Power BI | Turning Data Into Actionable Insights
 
 
 ## 🌐 Socials:
