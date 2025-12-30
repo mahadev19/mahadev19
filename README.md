@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist | Python, SQL, Machine Learning, Power BI | Turning Data Into Actionable Insights
+Data Scientist | Python, SQL, Machine Learning, Power BI | Turning Data Into Actionable Insights 
 
 
 ## 🌐 Socials: 
