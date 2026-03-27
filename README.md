@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 Data Scientist & Backend Developer | Python, SQL, Machine Learning, FastAPI, Power BI | Turning Data Into Actionable Insights
 
 ## 🌐 Socials:
