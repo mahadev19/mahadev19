@@ -7,9 +7,9 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B-Tech CSE_%26_VDF College Latur-7C3AED?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B-Tech CSE_%26_VDF College Latur-7C3AED?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-REST_APIs_%26_ML_Systems-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA_%26_7.91/10-10B981?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Pune%2C_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -129,30 +129,20 @@ I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Fla
 
 ## GitHub Analytics
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=mahadev19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mahadev19&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahadev19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mahadev19&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadev19&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev19&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahadev19&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
-
-</div>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahadev19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahadev19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## Contribution Activity
 
 <div align="center">
@@ -226,3 +216,5 @@ Open To:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+[![](https://komarev.com/ghpvc/?username=mahadev19&icon=0&color=0)](https://visitcount.itsvg.in)
+
