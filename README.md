@@ -136,16 +136,16 @@ I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Fla
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahadev19&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&width=450" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api?username=mahadev19&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadev19&theme=tokyonight&border_radius=10&hide_border=false" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=mahadev19&theme=tokyonight&border_radius=10&hide_border=false" width="100%" />
     </td>
   </tr>
   <tr>
     <td valign="top" colspan="2" align="center">
       <br/>
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev19&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+      <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahadev19&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
     </td>
   </tr>
 </table>
