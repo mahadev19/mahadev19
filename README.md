@@ -6,13 +6,11 @@
 
 <br/>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-VDF_College_Latur-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CGPA-7.95_/_10-10B981?style=flat-square"/>&nbsp;
-<img src="https://img.shields.io/badge/Location-Pune_MH,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CGPA-7.95_/_10-10B981?style=flat-square"/>&nbsp;
+  <img src="https://img.shields.io/badge/Location-Pune_MH,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
-
-<p>
   <a href="https://github.com/mahadev19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -38,7 +36,8 @@
   </a>
 </p>
 
-<img src="https://visitcount.itsvg.in/api?id=mahadev19&icon=0&color=7C3AED"/>
+[![](https://komarev.com/ghpvc/?username=mahadev19&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
 
