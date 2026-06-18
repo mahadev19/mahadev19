@@ -19,10 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:pandmahadev120@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://x.com/Mahadev_Py" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow-181717?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
@@ -51,10 +47,8 @@
 ---
 
 ## About Me
-
-I'm a **Backend Developer** who builds production-ready REST APIs and folds machine learning straight into them — from automated WhatsApp alert systems to churn-prediction services people actually use through a browser.
-
-I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Flask, schema validation with Pydantic, containerized deployment with Docker on AWS, and enough testing that the thing doesn't fall over in production. On the data side, I'm just as comfortable training a model, explaining its predictions with SHAP, and shipping it behind an endpoint as I am writing the endpoint itself.
+I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about building software that solves real-world problems. My interests lie in Software Engineering, Artificial Intelligence, Machine Learning, and AI Agents. I primarily work with Python, FastAPI, PostgreSQL, Docker, and AWS while continuously exploring modern technologies like Large Language Models and Generative AI. 
+  I enjoy transforming ideas into practical applications, from backend systems and automation tools to AI-powered solutions. Currently, I am focused on strengthening my software engineering fundamentals, building impactful projects, and growing into an AI Engineer who creates innovative products that deliver meaningful value to users. 🚀
 
 ---
 
@@ -185,8 +179,8 @@ I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Fla
 
 <div align="center">
 
-<p>
-  <a href="mailto:pandmahadev120@gmail.com">
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pandmahadev120@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-PANDMAHADEV120%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
