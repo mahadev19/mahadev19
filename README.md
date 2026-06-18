@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/CGPA-7.95_/_10-10B981?style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/Location-Pune_MH,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
+<a href="https://www.mahadev.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/mahadev19" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -22,14 +26,8 @@
   <a href="https://x.com/Mahadev_Py" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow-181717?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://instagram.com/mahadev_p19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mahadev.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  
+  
 </p>
 
 <p align="center">
