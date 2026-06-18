@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-Backend_%26_ML_Engineer-7C3AED?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B-Tech CSE_%26_VDF College Latur-7C3AED?style=flat-square&logo=python&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-REST_APIs_%26_ML_Systems-10B981?style=flat-square"/>
   &nbsp;
