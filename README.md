@@ -158,9 +158,22 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 
 ## Top Contributed Repo
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=mahadev19&repo=mahadev19&theme=tokyonight&border_radius=10" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=mahadev19&repo=Telecom-Customer-Churn-Business-Insights-Dashboard&theme=tokyonight&border_radius=10" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/pin/?username=mahadev19&repo=mahadev19&theme=tokyonight&border_radius=10" />
+    </td>
+  </tr>
+</table>
 </div>
+
+---
 
 ---
 
