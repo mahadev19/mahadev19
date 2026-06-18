@@ -158,10 +158,13 @@ I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Fla
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahadev19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahadev19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 ## Contribution Activity
 
 <div align="center">
@@ -169,32 +172,6 @@ I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Fla
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev19&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced System Design & Distributed Systems
-  - Asynchronous patterns in Python & Concurrency Tuning
-  - Generative AI / LLM-powered pipelines
-
-Building:
-  - Secure, performant production-ready REST APIs
-  - ML-integrated services (FastAPI/Flask + model inference)
-  - Clean SQLAlchemy-based database layers
-
-Exploring:
-  - AI Agents & intelligent automation
-  - Real-time streaming & alerting architectures
-  - Cloud deployment patterns on AWS
-
-Open To:
-  - Backend Engineer / Python Developer roles
-  - ML Engineer & Data Science positions
-  - Open source collaboration in API & MLOps ecosystems
-```
 
 ---
 
