@@ -148,14 +148,27 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahadev19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahadev19&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+</div>
+
+---
+
+## Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=mahadev19&repo=Telecom-Customer-Churn-Business-Insights-Dashboard&theme=tokyonight&border_radius=10" />
+</div>
+
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahadev19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 ## Contribution Activity
 
