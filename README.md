@@ -2,20 +2,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mahadev;Python+Backend+Developer;ML-Powered+Systems+Engineer;API+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Mahadev+Pandharpote;Python+Backend+Developer;ML+%26+Data+Science+Engineer;FastAPI+%2B+Flask+API+Architect" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-Python_Backend_Developer-7C3AED?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-Backend_%26_ML_Engineer-7C3AED?style=flat-square&logo=python&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-REST_APIs_&_ML_Systems-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-REST_APIs_%26_ML_Systems-10B981?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Pune%2C_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/mahadev-data-scientist/" target="_blank">
+  <a href="https://github.com/mahadev19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mahadev-data-scientist/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -23,7 +27,7 @@
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://x.com/mahadev_py" target="_blank">
+  <a href="https://x.com/Mahadev_Py" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow-181717?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;
@@ -42,9 +46,9 @@
 
 ## About Me
 
-I am a **Python Backend Developer** with a sharp focus on architecting robust REST APIs and building scalable, machine learning-powered systems. I thrive at the intersection of data engineering, traditional backend architecture, and intelligent application design.
+I'm a **Backend Developer** who builds production-ready REST APIs and folds machine learning straight into them — from automated WhatsApp alert systems to churn-prediction services people actually use through a browser.
 
-My engineering philosophy centers around performance and reliability—whether that means optimizing complex SQL queries, designing clean data abstraction layers, or engineering full production lifecycles for intelligent data models. I build backend infrastructures that can seamlessly ingest data, run predictions, and serve responses with minimal latency.
+I follow the full SDLC: requirement breakdown, clean API design with FastAPI/Flask, schema validation with Pydantic, containerized deployment with Docker on AWS, and enough testing that the thing doesn't fall over in production. On the data side, I'm just as comfortable training a model, explaining its predictions with SHAP, and shipping it behind an endpoint as I am writing the endpoint itself.
 
 ---
 
@@ -53,7 +57,7 @@ My engineering philosophy centers around performance and reliability—whether t
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark"/>
 </p>
 
 ### Frameworks & Backends
@@ -65,18 +69,18 @@ My engineering philosophy centers around performance and reliability—whether t
 ### Databases & ORMs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark"/>
 </p>
 
-> **ORM & Core Data Access Layer:** SQLAlchemy
+> **ORM & Core Data Access Layer:** SQLAlchemy &nbsp;|&nbsp; **Also worked with:** Oracle
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark"/>
 </p>
 
-> **CI/CD & Integration:** GitHub Actions
+> **CI/CD & Integration:** GitHub Actions &nbsp;|&nbsp; Postman &nbsp;|&nbsp; Unit Testing
 
 ---
 
@@ -84,48 +88,64 @@ My engineering philosophy centers around performance and reliability—whether t
 
 | Domain | Tools & Libraries | Application Focus |
 |---|---|---|
-| **Deep Learning** | PyTorch · TensorFlow · Keras | Neural network modeling & deployment |
-| **Data Analysis** | Pandas · NumPy · SciPy | High-performance processing & manipulation |
-| **Visualization** | Matplotlib · Plotly · Power BI | Explanatory metrics & enterprise dashboards |
-| **MLOps** | MLflow | Model tracking, reproducibility, & registry |
-| **ML Modeling** | Scikit-learn | Supervised, unsupervised, & feature engineering pipelines |
+| **Deep Learning** | PyTorch · TensorFlow · Keras (ResNet34) | Audio/image classification & model deployment |
+| **Classical ML** | Scikit-learn · XGBoost · SMOTE | Classification, regression, clustering, churn/risk modeling |
+| **Explainability** | SHAP | Translating model predictions into stakeholder-readable insights |
+| **Data Analysis** | Pandas · NumPy · PySpark | Feature engineering & large-scale data processing |
+| **Visualization & BI** | Power BI (DAX, Power Query) · Matplotlib · Seaborn · Streamlit | Dashboards, business storytelling, live ML-powered web apps |
 
 ---
 
-## Featured Backend Framework Implementations
+## Featured Projects
 
 <details>
-<summary><b>Enterprise REST API Layer (FastAPI Architecture)</b></summary>
+<summary><b>🏥 Insurance Premium Prediction API (FastAPI + PostgreSQL)</b></summary>
 
 <br/>
 
-> High-throughput asynchronously-driven backend system layout utilizing asynchronous database sessions and dependency injection patterns.
+> ML-powered REST API that classifies insurance premium tiers (Low / Medium / High) from health, lifestyle, and demographic inputs.
 
 | Attribute | Detail |
 |---|---|
-| **Core Stack** | Python · FastAPI · SQLAlchemy · PostgreSQL |
-| **Operations** | Dockerized container architecture |
-| **Monitoring** | Structured logging and automatic OpenAPI documentation |
-| **Performance** | Non-blocking Event Loop for concurrent connections |
+| **Core Stack** | Python · FastAPI · Scikit-learn · Pydantic · PostgreSQL |
+| **Frontend** | Streamlit app surfacing predictions with confidence scores & class probabilities |
+| **Ops** | Dockerized and deployed end-to-end on AWS EC2 |
 
-**What it does:** Serves as a modular, scalable boilerplate framework designed for high-concurrency applications. Built with background tasks, clean CORS setups, and layered architecture separating routes, schemas, and database operations.
+**What it does:** Engineers features like automated BMI calculation, lifestyle risk scoring, and city-tier classification, then serves predictions through a FastAPI layer with auto-generated Swagger docs — a complete ML pipeline from training to cloud production.
 
 </details>
 
 <details>
-<summary><b>MLflow Integrated Prediction Service (Flask Backend)</b></summary>
+<summary><b>🔊 Real-Time Scream Detection & Alert System (Flask + Deep Learning)</b></summary>
 
 <br/>
 
-> Lightweight Microservice framework providing rapid endpoint initialization to serve ML/DL models with end-to-end telemetry.
+> Real-time audio classification app that detects human screams from uploads or live microphone recordings and fires emergency alerts automatically.
 
 | Attribute | Detail |
 |---|---|
-| **Core Stack** | Flask · MLflow · Scikit-learn / PyTorch · NumPy |
-| **Metrics** | Real-time payload schema validation via Pydantic or custom wrappers |
-| **Lifecycle** | Models dynamically fetched from an MLflow model registry bucket |
+| **Core Stack** | Python · Flask · TensorFlow/Keras (ResNet34) · PyAudio · PostgreSQL |
+| **Safety Layer** | Auto-sends WhatsApp alerts with the user's live GPS location on detection |
+| **Extras** | User auth, admin dashboard for reviewing detections, saved audio playback |
 
-**What it does:** Decouples heavy model execution files from user-facing frontends. Features explicit payload processing pipelines, isolates model inference runs safely, and surfaces prediction records cleanly via REST standard endpoints.
+**What it does:** Runs mel-spectrogram audio through a ResNet34 model for scream classification, logs every detection event (confidence, timestamp, lat/long) to Postgres for audit, and is fully documented with flowcharts covering the audio pipeline and alert flow.
+
+</details>
+
+<details>
+<summary><b>📉 Telecom Customer Churn Prediction (ML + Data Pipeline)</b></summary>
+
+<br/>
+
+> End-to-end churn prediction system trained on 243K+ real customer records.
+
+| Attribute | Detail |
+|---|---|
+| **Core Stack** | Python · XGBoost · Scikit-learn · SHAP · SMOTE · Streamlit |
+| **Result** | ROC-AUC of 0.91, 85% precision / 81% recall on churn class |
+| **Explainability** | SHAP waterfall plots so non-technical users see *why* a customer is flagged |
+
+**What it does:** Handles severe class imbalance (18% churn rate) via SMOTE, benchmarks Logistic Regression / Random Forest / XGBoost, and ships as a live Streamlit app with a real-time green/orange/red risk gauge.
 
 </details>
 
@@ -173,19 +193,20 @@ My engineering philosophy centers around performance and reliability—whether t
 Learning:
   - Advanced System Design & Distributed Systems
   - Asynchronous patterns in Python & Concurrency Tuning
-  - Cloud Architecture optimization on AWS
+  - Generative AI / LLM-powered pipelines
 
 Building:
-  - Highly secure and performant production-ready REST APIs
-  - Modular MLOps integration pipelines for active models
-  - Clean database design frameworks using SQLAlchemy 2.0 styles
+  - Secure, performant production-ready REST APIs
+  - ML-integrated services (FastAPI/Flask + model inference)
+  - Clean SQLAlchemy-based database layers
 
 Exploring:
-  - Complex real-time streaming architectures
-  - Large-scale microservice container orchestration
-  - High-volume relational database indexing and optimization
+  - AI Agents & intelligent automation
+  - Real-time streaming & alerting architectures
+  - Cloud deployment patterns on AWS
 
 Open To:
-  - Senior / Core Python Backend Engineering roles
-  - ML Backend / Data Engineering positions
-  - Open source collaborations in API and MLOps ecosystems
+  - Backend Engineer / Python Developer roles
+  - ML Engineer & Data Science positions
+  - Open source collaboration in API & MLOps ecosystems
+```
