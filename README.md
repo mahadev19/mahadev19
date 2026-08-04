@@ -197,33 +197,6 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 
 ---
 
-## Connect
-
-<div align="center">
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pandmahadev120@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-PANDMAHADEV120%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/mahadev-data-scientist/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-MAHADEV_PANDHARPOTE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/mahadev19" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-MAHADEV19-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mahadev.me/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_WEBSITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<i>Building at the intersection of backend engineering, machine learning, and clean system design.</i>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
