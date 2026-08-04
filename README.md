@@ -169,14 +169,9 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 ---
 
 
-
----
-
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/mahadev19/mahadev19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
