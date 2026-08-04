@@ -147,14 +147,7 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 
 ---
 
-## 🏆 GitHub Trophies
----
 
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=mahadev19&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## Top Contributed Repo
 
@@ -181,21 +174,12 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev19&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mahadev19/mahadev19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
