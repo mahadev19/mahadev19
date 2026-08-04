@@ -168,10 +168,7 @@ I'm Mahadev Pandharpote, a Computer Engineering graduate passionate about buildi
 
 ---
 
----
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
